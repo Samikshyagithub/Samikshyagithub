@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samikshya Upadhyay</h1>
 <h3 align="center">A Computer Engineering student at Kathmandu University.</h3>
 
-- 🔭 I’m currently working on **e-Lect**
+- 🔭 I’m currently working on **RKInternationalTraders,Portfoliowebsite**
 
 - 🌱 I’m currently learning **Javascript,React.**
 
