@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Samikshya Upadhyay</h1>
+<h1 align="center">Hey, It's Samikshya Upadhyay</h1>
 <h3 align="center">A Computer Engineering student at Kathmandu University.</h3>
 
 - 🔭 I’m currently working on **RKInternationalTraders,Portfoliowebsite**
 
-- 🌱 I’m currently learning **Javascript,React.**
+- 🌱 I’m currently learning **Javascript,React.js,Three.js.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samikshyagithub?tab=repositories](https://github.com/Samikshyagithub?tab=repositories)
 
