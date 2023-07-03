@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **RKInternationalTraders,Portfolio Website**
 
-- 🌱 I’m currently learning **Javascript,React.js,Three.js.**
+- 🌱 I’m currently learning **Javascript,React.js,Three.js,python.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samikshyagithub?tab=repositories](https://github.com/Samikshyagithub?tab=repositories)
 
