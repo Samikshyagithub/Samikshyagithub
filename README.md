@@ -1,4 +1,4 @@
-<h1 align="center">Hello , It's me Samikshya Upadhyay.</h1>
+<h1 align="center">Hey , It's me Samikshya Upadhyay.</h1>
 <h3 align="center">A Computer Engineering student at Kathmandu University.</h3>
 
 - 🔭 I’m currently working on **RKInternationalTraders,Portfolio Website**
