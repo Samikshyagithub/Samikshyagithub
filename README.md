@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samikshyagithub" alt="samikshyagithub" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@_thesapphire_" target="blank"><img src="https://img.shields.io/twitter/follow/@_thesapphire_?logo=twitter&style=for-the-badge" alt="@_thesapphire_" /></a> </p>
+
 
 - 🌱 I’m currently learning **Three.js , React, Python and Blender.👨‍💻**
 
