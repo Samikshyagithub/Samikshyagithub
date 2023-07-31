@@ -1,10 +1,6 @@
 <h1 align="center">Hey It's Samikshya's Tech Adventure.</h1>
 <h3 align="center">A Computer Engineering student at Kathmandu University.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samikshyagithub" alt="samikshyagithub" /></a> </p>
-
-
-
 - 🌱 I’m currently learning **Three.js , React, Python and Blender.👨‍💻**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samikshyagithub?tab=repositories](https://github.com/Samikshyagithub?tab=repositories)
