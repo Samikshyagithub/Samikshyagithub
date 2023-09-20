@@ -1,7 +1,7 @@
 <h1 align="center">Hello It's Samikshya's Tech Adventure.</h1>
 <h3 align="center">A Computer Engineering student at Kathmandu University.</h3>
 
-- 🌱 I’m currently learning **Three.js ,TypeScript, React,InDesign, Python and Blender.👨‍💻**
+- 🌱 I’m currently learning **Three.js ,TypeScript and Blender.👨‍💻**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samikshyagithub?tab=repositories](https://github.com/Samikshyagithub?tab=repositories)
 
