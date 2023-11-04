@@ -1,4 +1,4 @@
-<h1 align="center">Hello It's Samikshya's Tech World.</h1>
+<h1 align="center">Hey It's Samikshya's Tech World.</h1>
 <h3 align="center">A Computer Engineering student at Kathmandu University.</h3>
 
 - 🌱 I’m currently learning **Three.js ,TypeScript and Blender.👨‍💻**
